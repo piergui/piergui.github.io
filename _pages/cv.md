@@ -34,6 +34,7 @@ See the [Publications](https://piergui.github.io/publications/) page.
 ## <span style="font-variant:small-caps;">Conferences and workshops</span>
 ### <span style="font-variant:small-caps;">Talks</span>
 - [Tok seminar](https://www.ipp.mpg.de/4051068/tokseminar), IPP Garching (May 2026)
+- Waves and flows seminar, University of Edinburgh (March 2026)  
 - *Réunion Scientifique et Technique*, IRFM, CEA Cadarache (Jan. 2026)
 - [2nd European Fluid Dynamics Conference](https://www.efdc2.com/), Dublin (Aug. 2025)
 - [*Festival de théorie*](https://festival-theorie.org/), Aix-en-Provence (July 2025)
