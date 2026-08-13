@@ -6,10 +6,11 @@ title: "Publications"
 # <span style="font-variant:small-caps;">Publication list</span>
 
 ## <span style="font-variant:small-caps;">Prepublications:</span>
-- P. L. Guillon, R. Angles, Y. Sarazin, Ö. D. Gürcan, *Anisotropic truncation for turbulent transport and zonal flows in the Hasegawa-Wakatani system*, [arXiv:2603.22995](https://doi.org/10.48550/arXiv.2603.22995), 2026.
 
 
 ## <span style="font-variant:small-caps;">Publications:</span>
+- P. L. Guillon, R. Angles, Y. Sarazin, Ö. D. Gürcan, *Anisotropic truncation for turbulent transport and zonal flows in the Hasegawa-Wakatani system*, [*Plasma Phys. Control. Fusion*](https://iopscience.iop.org/article/10.1088/1361-6587/ae92b2), 2026.
+
 - P. L. Guillon, G. Dif-Pradalier, Y. Sarazin, D. W. Hughes, Ö. D. Gürcan, *Self-organisation through layering of β-plane like turbulence in plasmas and geophysical fluids*, [arXiv:2511.10438](https://doi.org/10.48550/arXiv.2511.10438), *accepted to Philos. Trans. R. Soc. A*, 2026.
 
 - P. H. Diamond, Y. Kosuga, P. L. Guillon, Ö. D. Gürcan, *Flux Jamming, Phase Transitions and Layering in Turbulent Magnetized Plasma*, [arXiv:2510.14280](https://doi.org/10.48550/arXiv.2510.14280), *accepted to Philos. Trans. R. Soc. A*, 2026.
