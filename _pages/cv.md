@@ -45,6 +45,8 @@ See the [Publications](https://piergui.github.io/publications/) page.
 - Turbulence cross-disciplinary seminar of Laboratoire de Physique des Plasmas (Oct. 2024)
 
 ### <span style="font-variant:small-caps;">Posters</span>
+- [52nd EPS Plasma Physics Conference](https://epsplasma2026.com/), Edinburgh (July 2026)  
+  *Highly Commended poster for the 21st KU Itoh project prize*
 - [GdRs *Mécanique des Fluides Géophysiques et Astrophysiques* and Navier-Stokes 2.00](https://mfga-ns-2026.sciencesconf.org/?lang=en), Toulouse (June 2026)
 - [Instabilities and transitions in geophysical flows](https://indico.math.cnrs.fr/event/13869/overview), Institut Henri Poincaré (May 2026)
 - IPEF seminar, AgroParisTech (Feb. 2026)
@@ -59,6 +61,7 @@ See the [Publications](https://piergui.github.io/publications/) page.
 
 ---
 ## <span style="font-variant:small-caps;">Prizes</span>
+- Highly Commended poster for the 21st KU Itoh project prize, announced at the [52nd EPS Plasma Physics Conference](https://epsplasma2026.com/)
 - Ecole polytechnique prize for best research internship in plasma physics
 
 ---
