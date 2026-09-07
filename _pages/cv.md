@@ -7,6 +7,7 @@ title: "CV"
 ## <span style="font-variant:small-caps;">Current position</span>
 **Postdoctoral researcher - Max-Planck Institute for Plasma Physic, Garching, Germany** (2026 - )
 
+---
 ## <span style="font-variant:small-caps;">Education</span>
 - **PhD student - Laboratoire de Physique des Plasmas, Ecole polytechnique, Palaiseau, France** (2023 - 2026)  
   *supervised by Özgür D. Gürcan and Nicolas Fedorczak, defended on June 10th 2026*
