@@ -5,7 +5,7 @@ title: "CV"
 # <span style="font-variant:small-caps;">Curriculum vitæ</span>
 
 ## <span style="font-variant:small-caps;">Current position</span>
-**Postdoctoral researcher - Max-Planck Institute for Plasma Physic, Garching, Germany** (2026 - )
+**Postdoctoral researcher - Max Planck Institute for Plasma Physics, Garching, Germany** (2026 - )
 
 ---
 ## <span style="font-variant:small-caps;">Education</span>
