@@ -6,7 +6,7 @@ classes: wide
 
 I am a postdoctoral researcher at the [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/en), in Garching, Germany. I work under the supervision of [Alessandro Di Siena](https://scholar.google.com/citations?user=zOkiDjAAAAAJ&hl=fr&oi=sra) on reduced models for turbulent transport in tokamaks, such as quasi-linear models, accounting for the effect of fast particles. 
 
-I did my PhD at the [Laboratoire de Physique des Plasmas](https://lpp.ip-paris.fr/en), at Ecole polytechnique, France, under the supervision of [Özgür D. Gürcan](https://scholar.google.com/citations?user=IR3T5hoAAAAJ&hl=fr) and Nicolas Fedorczak. My thesis subject was on *[Transport Modelling for Fusion Devices Using Reduced Models for Turbulence](https://theses.fr/s367107)*.
+I did my PhD at the [Laboratoire de Physique des Plasmas](https://lpp.ip-paris.fr/en), at Ecole polytechnique, France, under the supervision of [Özgür D. Gürcan](https://scholar.google.com/citations?user=IR3T5hoAAAAJ&hl=fr) and Nicolas Fedorczak. My thesis subject was on *[Transport Modelling for Fusion Devices Using Reduced Models for Turbulence](https://theses.hal.science/tel-05742452)*.
 
 During my PhD, I focused on turbulent transport in magnetised plasmas of tokamaks, and the self-organisation of turbulence into large-scale coherent structures, such as zonal flows.
 
