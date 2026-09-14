@@ -24,4 +24,8 @@ title: "Publications"
 - C. Vlachos et al., *Laser-driven quasi-static B-fields for magnetized high-energy-density experiments*, [*Phys. Plasmas*](https://doi.org/10.1063/5.0190305), 2024.
 
 
+## <span style="font-variant:small-caps;">PhD thesis:</span>
+P. L. Guillon, *[Transport Modelling for Fusion Devices Using Reduced Models for Turbulence](https://theses.hal.science/tel-05742452)*, 2026
+
+
 
