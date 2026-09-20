@@ -8,6 +8,8 @@ I am a postdoctoral researcher at the [Max Planck Institute for Plasma Physics](
 
 I did my PhD at the [Laboratoire de Physique des Plasmas](https://lpp.ip-paris.fr/en), at Ecole polytechnique, France, under the supervision of [Özgür D. Gürcan](https://scholar.google.com/citations?user=IR3T5hoAAAAJ&hl=fr) and Nicolas Fedorczak. My thesis subject was on *[Transport Modelling for Fusion Devices Using Reduced Models for Turbulence](https://theses.hal.science/tel-05742452)*.
 
+You can find my list of publications [here](https://piergui.github.io/publications/), as well as my CV [here](https://piergui.github.io/cv/).
+
 During my PhD, I focused on turbulent transport in magnetised plasmas of tokamaks, and the self-organisation of turbulence into large-scale coherent structures, such as zonal flows.
 
 For that, I mainly used the Hasegawa-Wakatani system as the minimal, non-trivial plasma turbulence model, in order to understand zonal flow formation and build reduced model which account for their interaction with turbulence.
